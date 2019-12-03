@@ -9,11 +9,11 @@
 
 ## [도서 대여 프로젝트](https://github.com/dhslrl321/undergraduate_projects/tree/master/04_%EB%8F%84%EC%84%9C%20%EB%8C%80%EC%97%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 
-## [디펜스 게임]()
+## [디펜스 게임](https://github.com/dhslrl321/undergraduate_projects/blob/master/05_Parabolo%20Hit/day2.cxs)
 
 ## [운동하실]()
 
-## [관리자 페이지]()
+## [관리자 페이지](https://github.com/dhslrl321/adminPage_Springboot)
 
 ## [데스크탑 원격 조종 프로그램]()
 

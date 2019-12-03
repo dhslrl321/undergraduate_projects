@@ -47,7 +47,6 @@ int enemyprocess() {
 			GotoXY(g_stenemy[i].x, g_stenemy[i].y);
 			printf("¡Ù");
 			g_stenemy[i].y++;
-
 			if (g_stenemy[i].y == g_stplayer.y) {
 				if (g_stenemy[i].x == g_stplayer.x) {
 					g_stplayer.bActive = false;
@@ -57,7 +56,6 @@ int enemyprocess() {
 				g_stenemy[i].bActive = false;
 			}
 		}
-
 	}
 	return count;
 }
@@ -133,10 +131,6 @@ int main(void)
 		score();
 
 		Sleep(50);
-
-
-
-
 
 
 		if (state == 0) break;
